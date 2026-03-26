@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: html-demo
-        image: kishorekumarsrini2006@gmail.com/html-demo:latest
+        image: kishorekumar14/html-demo:latest
         ports:
         - containerPort: 80
 ---
